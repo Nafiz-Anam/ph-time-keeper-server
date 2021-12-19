@@ -67,6 +67,6 @@ Or (if Nodemon Globally installed in System)
   
 ## Authors
 
-- [Imran Hasan Rahi](https://fb.com/icerahi)
+- [Nafiz Anam](https://www.fiverr.com/anam_nafiz)
 
   
